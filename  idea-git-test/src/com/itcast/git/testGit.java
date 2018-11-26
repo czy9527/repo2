@@ -9,6 +9,12 @@ public class testGit {
         System.out.println("adfasdfadfasdfaef");
         System.out.println("adfasdfadfasdfaef");
         System.out.println("adfasdfadfasdfaef");
+        System.out.println("发达地方");
+        System.out.println("发达地方");
+        System.out.println("发达地方");
+        System.out.println("发达地方");
+        System.out.println("发达地方");
+        System.out.println("发达地方");
     }
 }
 
